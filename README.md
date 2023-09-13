@@ -5,7 +5,7 @@
 > **Note** :exclamation: This project is without [~~expo~~](https://expo.dev/).
 
 ## 💁 What's Included ? 
-- [X] React Native version:0.72.4 (latest)
+- [X] Latest React Native:0.72.4
 - [x] Typescript
 - [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - with `useNavigation()` hook
 - [x] [Localization](https://react.i18next.com/) react-i18next - with `useTranslation()` 
