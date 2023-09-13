@@ -1,19 +1,23 @@
 
 
 
+
 # React Native Typescript Firebase 
 > **Note** :exclamation: This project is without [~~expo~~](https://expo.dev/).
 
 ## 💁 What's Included ? 
 > - [X] Latest React Native:0.72.4 :star2:
 > - [x] Typescript
-> - [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - with `useNavigation()` hook
-> - [x] [Localization](https://react.i18next.com/) react-i18next - with `useTranslation()` 
-> - [x] [zustand](https://github.com/pmndrs/zustand) State Management  - with `useState()` hook
+> - [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - `useNavigation()` hook
+> - [x] [Localization](https://react.i18next.com/) (react-i18next) - `useTranslation()` 
+> - [x] [Zustand](https://github.com/pmndrs/zustand) State Management  - with `useState()` hook
 > - [x] Firebase Authentication [@react-native-firebase/auth](https://rnfirebase.io/auth/usage)
 > - [x] Firebase Realtime Database [@react-native-firebase/database](https://rnfirebase.io/auth/usage)
-> - [ ]  Push Notifications
-> - [x] [AsyncStorage](@react-native-async-storage/async-storage) - ommunity storage
+> - [ ] Social Authentication
+> - [ ] Push Notifications
+> - [ ] File Upload
+> - [ ] Barcode QR Code Scanner
+ > - [x] [AsyncStorage](@react-native-async-storage/async-storage) - community package
 > - [x] [Reactoron](https://github.com/infinitered/reactotron) - Project State Inspector
 > - [ ]  Vector Icons [react-native-vector-icons]() , [react-native-dynamic-vector-icons]()
 > - [ ] Form Validation with [react-hook-form](react-hook-form)
@@ -21,6 +25,8 @@
 > - [ ] Theme (Colors, Palette)
 > - [ ] Dark / Light Mode
 > - [ ] Custom Fonts
+>  - [ ] AI Tools ( TensorFlow )
+> 
 
 ###  :coffee:  How to use ? 
 * First clone the repo
