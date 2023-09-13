@@ -1,6 +1,8 @@
 
 # React Native Typescript Firebase
 
+## version 0.72.4
+
 
 ## 💁 What's Included ? 
 
@@ -13,6 +15,8 @@
 - [x] [Firebase Authentication](https://rnfirebase.io/auth/usage)  (@react-native-firebase) 
 - [x] [AsyncStorage](@react-native-async-storage/async-storage) - Community 
 - [x] [Reactoron](https://github.com/infinitered/reactotron) - Project State Inspector
+- [ ] [Vector Icons](react-native-dynamic-vector-icons) + react-native-vector-icons
+- [ ] [React Hook Form](react-hook-form) - Simple form validation
 - [ ] Theme ( Colors, Palette)
 - [ ] Custom Fonts
 - [ ] Splash Screen
