@@ -1,41 +1,44 @@
 
 
+
 # React Native Typescript Firebase 
-> :star2: react-native:0.72.4
 > **Note** :exclamation: This project is without [~~expo~~](https://expo.dev/).
 
 ## 💁 What's Included ? 
-- [X] Latest React Native:0.72.4
-- [x] Typescript
-- [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - with `useNavigation()` hook
-- [x] [Localization](https://react.i18next.com/) react-i18next - with `useTranslation()` 
-- [x] [zustand](https://github.com/pmndrs/zustand) State Management  - with `useState()` hook
-- [x] [@react-native-firebase](https://rnfirebase.io/auth/usage)
-- [x] [AsyncStorage](@react-native-async-storage/async-storage) - ommunity storage
-- [x] [Reactoron](https://github.com/infinitered/reactotron) - Project State Inspector
-- [ ]  Vector Icons [react-native-vector-icons]() , [react-native-dynamic-vector-icons]()
-- [ ] Form Validation with [react-hook-form](react-hook-form)
-- [ ] Splash Screen
-- [ ] Theme (Colors, Palette)
-- [ ] Dark / Light Mode
-- [ ] Custom Fonts
+> - [X] Latest React Native:0.72.4 :star2:
+> - [x] Typescript
+> - [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - with `useNavigation()` hook
+> - [x] [Localization](https://react.i18next.com/) react-i18next - with `useTranslation()` 
+> - [x] [zustand](https://github.com/pmndrs/zustand) State Management  - with `useState()` hook
+> - [x] Firebase Authentication [@react-native-firebase/auth](https://rnfirebase.io/auth/usage)
+> - [x] Firebase Realtime Database [@react-native-firebase/database](https://rnfirebase.io/auth/usage)
+> - [ ]  Push Notifications
+> - [x] [AsyncStorage](@react-native-async-storage/async-storage) - ommunity storage
+> - [x] [Reactoron](https://github.com/infinitered/reactotron) - Project State Inspector
+> - [ ]  Vector Icons [react-native-vector-icons]() , [react-native-dynamic-vector-icons]()
+> - [ ] Form Validation with [react-hook-form](react-hook-form)
+> - [ ] Splash Screen
+> - [ ] Theme (Colors, Palette)
+> - [ ] Dark / Light Mode
+> - [ ] Custom Fonts
 
-### :coffee:  How to use ?
+###  :coffee:  How to use ? 
+* First clone the repo
+>   ``git clone https://github.com/maximcoding/react-native-firebase-app.git``
 
-*  ``git clone https://github.com/maximcoding/react-native-firebase-app.git``
+##### What next ? 
 
-####  For Project Collaboration:
-
-* Switch to new branch ``git checkout -b myNewBranch`` 
-* Enjoy your development :)
+### For collaboration:
+* Switch to new branch:  ``git checkout -b myNewBranch``  
+*  Enjoy ! :)
 
 ####  For Personal Use:
-* Remove .git from project root with `rm -rf .git` (Terminal MacOS)
+* Remove ".git" from project root folder with `rm -rf .git` (Terminal MacOS)
 * Switch to new branch (recommended) ``git checkout -b rename-app``
-* Rename the project ``npx react-native-rename@latest "new_name"``
-* Or rename with custom Bundle Identifier ``npx react-native-rename@latest "new_name" -b "bundle_identifier" ``
-* Then, Rename your app ``npx react-native-rename "Travel App"``
-* With custom Bundle Identifier `` npx react-native-rename "Travel App" -b "com.junedomingo.travelapp"``
+   -  Rename the project ``npx react-native-rename@latest "new_name"``
+   - Or rename with custom Bundle Identifier ``npx react-native-rename@latest "new_name" -b "bundle_identifier"``
+   -  Then, Rename your app ``npx react-native-rename "Travel App"``
+    -  With custom Bundle Identifier `` npx react-native-rename "Travel App" -b "com.junedomingo.travelapp"``
   
 ```bash
 # using npm
