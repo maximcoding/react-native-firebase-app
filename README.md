@@ -1,10 +1,11 @@
 
 
 # React Native Typescript Firebase 
-> :star2: React native version: "0.72.4" 
+> :star2: react-native:0.72.4
 > **Note** :exclamation: This project is without [~~expo~~](https://expo.dev/).
 
 ## 💁 What's Included ? 
+- [X] React Native version:0.72.4 (latest)
 - [x] Typescript
 - [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - with `useNavigation()` hook
 - [x] [Localization](https://react.i18next.com/) react-i18next - with `useTranslation()` 
