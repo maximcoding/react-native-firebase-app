@@ -1,30 +1,41 @@
 
-# React Native Typescript Firebase
 
-## version 0.72.4
-
+# React Native Typescript Firebase 
+> :star2: React native version: "0.72.4" 
+> **Note** :exclamation: This project is without [~~expo~~](https://expo.dev/).
 
 ## 💁 What's Included ? 
-
->**Note**: This project does not include ~~EXPO~~
-
 - [x] Typescript
-- [x] React Navigation ( @react-navigation ) - `useNavigation()`
-- [x] Localization ( + react-i18next ) - `useTranslation()` 
-- [x] [Zustand](https://github.com/pmndrs/zustand) ( state management ) - `useState()`
-- [x] [Firebase Authentication](https://rnfirebase.io/auth/usage)  (@react-native-firebase) 
-- [x] [AsyncStorage](@react-native-async-storage/async-storage) - Community 
+- [x] [React Navigation](https://reactnavigation.org/) (@react-navigation ) - with `useNavigation()` hook
+- [x] [Localization](https://react.i18next.com/) react-i18next - with `useTranslation()` 
+- [x] [zustand](https://github.com/pmndrs/zustand) State Management  - with `useState()` hook
+- [x] [@react-native-firebase](https://rnfirebase.io/auth/usage)
+- [x] [AsyncStorage](@react-native-async-storage/async-storage) - ommunity storage
 - [x] [Reactoron](https://github.com/infinitered/reactotron) - Project State Inspector
-- [ ] [Vector Icons](react-native-dynamic-vector-icons) + react-native-vector-icons
-- [ ] [React Hook Form](react-hook-form) - Simple form validation
-- [ ] Theme ( Colors, Palette)
-- [ ] Custom Fonts
+- [ ]  Vector Icons [react-native-vector-icons]() , [react-native-dynamic-vector-icons]()
+- [ ] Form Validation with [react-hook-form](react-hook-form)
 - [ ] Splash Screen
-- [ ] Dark / Light Mode 
-     
+- [ ] Theme (Colors, Palette)
+- [ ] Dark / Light Mode
+- [ ] Custom Fonts
+
+### :coffee:  How to use ?
+
+*  ``git clone https://github.com/maximcoding/react-native-firebase-app.git``
+
+####  For Project Collaboration:
+
+* Switch to new branch ``git checkout -b myNewBranch`` 
+* Enjoy your development :)
+
+####  For Personal Use:
+* Remove .git from project root with `rm -rf .git` (Terminal MacOS)
+* Switch to new branch (recommended) ``git checkout -b rename-app``
+* Rename the project ``npx react-native-rename@latest "new_name"``
+* Or rename with custom Bundle Identifier ``npx react-native-rename@latest "new_name" -b "bundle_identifier" ``
+* Then, Rename your app ``npx react-native-rename "Travel App"``
+* With custom Bundle Identifier `` npx react-native-rename "Travel App" -b "com.junedomingo.travelapp"``
   
-
-
 ```bash
 # using npm
 npm start
