@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome to App",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "mobilePhone": "Mobile phone number",
+  "login": "Login",
+  "logout": "Logout",
+  "signIn": "SignIn",
+  "signOut": "SignOut",
+  "delete": "Delete",
+  "edit": "Edit",
+  "add": "Add"
+}
